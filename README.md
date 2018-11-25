@@ -6,3 +6,4 @@
 
 
 wtf?
+gpg2 verifying
